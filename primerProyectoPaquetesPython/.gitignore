@@ -1,0 +1,5 @@
+#fichero env en el git Ignore
+bin/
+lib64/
+lib/
+lib64
